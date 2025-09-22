@@ -41,9 +41,9 @@ This project leverages a proven stack for robust performance and reliability.
 
 Ready to see it in action? Click the link below to open the application in your browser.
 
-#### [**Try it here\!**](https://www.google.com/search?q=http://localhost:8501/)
+#### [**Try it here\!**](https://skinsense-hstvkm6i4xjshcavzaksoa.streamlit.app/)
 
-*Note: This link works only when you have the application running on your local machine. Please follow the setup instructions below to get started.*
+*Note: You can use this link to access the live demo on any device.*
 
 ### **Local Setup** 💻
 
@@ -77,6 +77,6 @@ Follow these steps to get the SkinSense app running on your local machine.
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-Made by Alina✨
+Made by Alina
 
 -----
